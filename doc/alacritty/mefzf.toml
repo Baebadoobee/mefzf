@@ -1,0 +1,21 @@
+[general]
+#import = ["colors-fzfbneo.toml"]
+
+[window]
+
+opacity = 1
+
+padding.x = 0
+padding.y = 0
+
+decorations = "NONE"
+decorations_theme_variant = "Light" # "Dark"
+
+[font]
+
+normal.family = "Departure Mono"
+bold.family = "Departure Mono"
+italic.family = "Departure Mono"
+bold_italic.family = "Departure Mono"
+
+size = 14.0
